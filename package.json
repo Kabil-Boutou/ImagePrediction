@@ -1,12 +1,12 @@
 {
-  "name": "medium-test",
+  "name": "ml5js",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "ml5": "^0.1.1",
-    "react": "^16.5.2",
-    "react-dom": "^16.5.2",
-    "react-scripts": "2.0.5"
+    "ml5": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-scripts": "latest"
   },
   "scripts": {
     "start": "react-scripts start",
